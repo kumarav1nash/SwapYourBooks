@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+.containerFlex{
+		display: flex;
+		flex-wrap: wrap;
+		width: auto;
+		height: auto;
+		align-content: center;
+	
+		justify-content:center;
+		
+	}
+	.containerFlex > div{
+		height: 460px;
+		width: 300px;
+		
+		border-radius: 5px;
+		border: 1px solid white;
+		margin: 30px;
+		box-shadow: 5px 2px 5px 2px grey;
+	}
+.containpic1{
+	height: auto;
+	width: 100%;
+    background-image: url('img/bg2a.jpg');
+ 
+}
+.logo1{
+	font-weight: bold;
+}
+.Bookimg{
+	height: 200px;
+	width: inherit;
+	/*background-color: blue;
+	*/
+}
+.Booktitle{
+	height: 60px;
+	width: inherit;
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	background-color: #ffc000;
+	
+	
+}
+.Bookwriter{
+	height: 60px;
+	width: inherit;
+	background-color: #e3f2c7;font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	
+}
+.price{
+	height: 50px;
+	width: inherit;
+	background-color: #e3f2c7;
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	color: black;
+}
+
+.kartid{
+	height: 50px;
+	width: inherit;
+	background-color: #e3f2c7;
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	color: black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

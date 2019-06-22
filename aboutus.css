@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.OurMission{
+	width: 90%;
+	height: auto;
+	position: relative;
+	margin: 20px auto;
+	padding: 10px;
+	background-color: #e3f2c7;
+	border: 1px solid #ffc000;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 2px #e3f2c7;
+}
+.info{
+	font-size: 20px;
+}
